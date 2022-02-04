@@ -14,8 +14,4 @@ flutter run
 
 ## Screenshots
 
-<<<<<<< HEAD
-<img src"https://github.com/daydy225/flutter_news_app/blob/master/flutterNews.jpg" width="300" height="600" >
-=======
 <img src="https://github.com/daydy225/flutter_news_app/blob/master/flutterNews.jpg" width="300" height="600">
->>>>>>> 66c5c8f7d72038caea6820faababab80b10f1fd3
